@@ -52,7 +52,7 @@ then
   cd /usr/local/bin/
   wget $COINZIP
   unzip *.zip
-  rm wch-qt wch-tx wch-linux.zip
+  rm wch-qt wch-tx linux.zip
   chmod +x wch*
   
   mkdir -p $CONF_DIR
