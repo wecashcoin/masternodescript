@@ -50,3 +50,15 @@ bash <( curl -sL https://raw.githubusercontent.com/wecashcoin/masternodescript/m
 
 - Putty - Easy to use and customizable SSH client.
 - SuperPutty - This allows you to have multiple Putty tabs open in one window, allowing you to easily organize and switch between masternode servers.
+
+# Recommended VPS Specification
+
+- Linux Ubuntu 20.04 and above
+- 1 GB RAM
+- 2 Cores vCPU
+- 20 GB SSD Disk Space
+
+# Required
+
+- Public IP address
+- Stable internet connection 
