@@ -3,7 +3,7 @@
 PORT=38244
 RPCPORT=38245
 CONF_DIR=~/.wch
-COINZIP='https://github.com/wecashcoin/WCH/releases/download/v1.0/linux.zip'
+COINZIP='https://github.com/wecashcoin/WCH/releases/download/v1.1/wch-linux.zip'
 
 cd ~
 RED='\033[0;31m'
